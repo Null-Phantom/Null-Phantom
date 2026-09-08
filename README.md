@@ -1,26 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:161B22,70:1F6FEB,100:58A6FF&height=250&section=header&text=YUG%20MITTAL&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20FULL-STACK%20%7C%20CO-FOUNDER%20%7C%20BUILDER&descAlignY=58&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=600&color=58A6FF&center=true&vCenter=true&width=850&lines=Co-Founder+%40+Quantaforze;Building+AI-powered+solutions;Exploring+Artificial+Intelligence;Exploring+Machine+Learning;Full-Stack+Developer;Building+AxioVital;Turning+ideas+into+real+products;Always+building+something+new" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=YUG%20MITTAL&fontSize=62&fontColor=F5F0E8&animation=twinkling&fontAlignY=38&desc=AI%2FML%20%20%E2%80%A2%20%20BUILDER%20%20%E2%80%A2%20%20CO-FOUNDER&descAlignY=62&descSize=18&descColor=FF6B4A&color=0:111111,45:24191A,75:402226,100:111111"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=1800&pause=500&color=FF6B4A&center=true&vCenter=true&width=850&lines=CO-FOUNDER+%40+QUANTAforze;BUILDING+AXIOVITAL;AI+%2B+HEALTHCARE;AI+%2B+MACHINE+LEARNING;FULL-STACK+DEVELOPER;TURNING+IDEAS+INTO+PRODUCTS;BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME" alt="Typing animation"/>
+
+<br><br>
+
 <a href="https://quantaforze.com/">
-<img src="https://img.shields.io/badge/🚀%20CO--FOUNDER-QUANTAforze-58A6FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/QUANTAforze-FF6B4A?style=for-the-badge&labelColor=171414"/>
 </a>
+
+ 
 
 <a href="https://www.linkedin.com/in/yug-mittal-21270537b/">
-<img src="https://img.shields.io/badge/LINKEDIN-YUG%20MITTAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-C9A7FF?style=for-the-badge&labelColor=171414&logo=linkedin&logoColor=F5F0E8"/>
 </a>
 
+ 
+
 <a href="https://github.com/Null-Phantom">
-<img src="https://img.shields.io/badge/GITHUB-NULL--PHANTOM-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-F5F0E8?style=for-the-badge&labelColor=171414&logo=github&logoColor=171414"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Null-Phantom&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Null-Phantom&style=flat-square&color=FF6B4A&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -28,117 +34,152 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 </div>
 
-## ⚡ `whoami`
+## `01` — WHO AM I?
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Yug...;%3E+Loading+developer+profile...;%3E+AI%2FML+module+loaded;%3E+Builder+mode+activated;%3E+System+ready+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2200&pause=1000&color=C9A7FF&center=true&vCenter=true&width=700&lines=%3E+initializing+yug...;%3E+loading+builder+mode...;%3E+AI%2FML+module+loaded;%3E+systems+online;%3E+ready+to+build." />
 
 </div>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
+╭──────────────────────────────────────────────────────────────╮
 │                                                              │
 │   YUG MITTAL                                                  │
 │                                                              │
-│   🎓 B.Tech AI/ML Student                                    │
-│   🚀 Co-Founder @ Quantaforze                                │
-│   🧠 AI / Machine Learning                                   │
-│   💻 Full-Stack Development                                  │
-│   🧬 Building AxioVital                                       │
+│   🎓  B.Tech — Artificial Intelligence & Machine Learning    │
+│   🚀  Co-Founder — Quantaforze                               │
+│   🧠  Exploring — AI / ML / Intelligent Systems              │
+│   💻  Building — Full-Stack Applications                      │
+│   🧬  Current Project — AxioVital                            │
+│   ⚡  Philosophy — Build → Break → Learn → Rebuild            │
 │                                                              │
-│   > Build → Break → Learn → Rebuild                          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning student, developer and Co-Founder of Quantaforze**, interested in building technology that solves real problems.
+I'm a **B.Tech AI/ML student, developer and Co-Founder of Quantaforze**, interested in building technology that solves real problems.
 
-I learn by building, breaking things, figuring out why they broke, and building them better.
+I like taking ideas from **"what if?" → "let's build it" → "let's make it actually work."**
 
----
+My interests sit at the intersection of **AI, machine learning, software engineering, product development and startups.**
+
+<br>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 </div>
 
-## 🚀 `QUANTAforze`
+## `02` — QUANTAforze
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=QUANTAforze&fontSize=38&fontColor=58A6FF&animation=fadeIn"/>
-
-### BUILDING • EXPERIMENTING • SCALING
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=QUANTAforze&fontSize=40&fontColor=FF6B4A&animation=twinkling&color=171414"/>
 
 <br>
+
+### `BUILD  •  EXPERIMENT  •  SHIP`
 
 **Co-Founder @ Quantaforze**
 
-Building technology, products and intelligent systems while exploring new ideas and turning concepts into real-world solutions.
+Building technology, products and intelligent systems while turning ideas into real-world solutions.
 
-<br>
+<br><br>
 
 <a href="https://quantaforze.com/">
-<img src="https://img.shields.io/badge/🌐%20VISIT%20QUANTAforze-58A6FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20QUANTAforze-FF6B4A?style=for-the-badge&labelColor=171414"/>
 </a>
 
 </div>
 
----
-
-## 🧬 `CURRENTLY_BUILDING`
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=AXIOVITAL;AI+%2B+HEALTHCARE;INTELLIGENT+SYSTEMS" />
+`✦ ─────────────── ✦ ─────────────── ✦`
+
+</div>
+
+## `03` — CURRENTLY BUILDING
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=30&duration=2200&pause=800&color=FF6B4A&center=true&vCenter=true&width=650&lines=AXIOVITAL;INTELLIGENT+HEALTHCARE;AI+%2B+DATA+%2B+HEALTHCARE" />
 
 <br>
 
-### Intelligent Healthcare • AI/ML • Full Stack
+### 🧬 AXIOVITAL
+
+**Intelligent Healthcare • AI/ML • Full Stack**
 
 An intelligent healthcare platform focused on bringing **technology, data and healthcare** together to create meaningful digital solutions.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,dotnet" />
+`AI/ML`   `Healthcare`   `TypeScript`   `Full Stack`   `Backend`
 
 <br><br>
 
 <a href="https://github.com/Null-Phantom/AxioVital-Website">
-<img src="https://img.shields.io/badge/🧬%20EXPLORE%20AXIOVITAL-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20AXIOVITAL-FF6B4A?style=for-the-badge&labelColor=171414&logo=github&logoColor=F5F0E8"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+`✦ ─────────────── ✦ ─────────────── ✦`
 
 </div>
 
-## 🛠️ `TECH STACK`
+## `04` — TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nextjs,nodejs,dotnet,postgres,mysql,git,github,vscode,docker,figma&perline=9" />
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts&theme=dark"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=CODE+%E2%80%A2+DESIGN+%E2%80%A2+BUILD+%E2%80%A2+DEPLOY;PYTHON+%E2%80%A2+C%2B%2B+%E2%80%A2+TYPESCRIPT;REACT+%E2%80%A2+NEXT.JS+%E2%80%A2+ASP.NET;AI+%E2%80%A2+ML+%E2%80%A2+BACKEND" />
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark"/>
+
+<br><br>
+
+### BACKEND / DATA
+
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,postgres,mysql&theme=dark"/>
+
+<br><br>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma&theme=dark"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2400&pause=700&color=C9A7FF&center=true&vCenter=true&width=650&lines=CODE+%E2%86%92+DESIGN+%E2%86%92+BUILD+%E2%86%92+DEPLOY;LEARN+%E2%86%92+EXPERIMENT+%E2%86%92+ITERATE;AI+%E2%80%A2+WEB+%E2%80%A2+SYSTEMS+%E2%80%A2+PRODUCTS"/>
 
 </div>
 
----
+<br>
 
-## 🚀 `FEATURED PROJECTS`
+<div align="center">
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+</div>
+
+## `05` — SELECTED WORK
 
 <table>
 <tr>
@@ -149,7 +190,7 @@ An intelligent healthcare platform focused on bringing **technology, data and he
 
 ### 🧬 AXIOVITAL
 
-AI-powered healthcare platform connecting technology, data and healthcare.
+AI-powered healthcare platform.
 
 <br>
 
@@ -158,7 +199,7 @@ AI-powered healthcare platform connecting technology, data and healthcare.
 <br><br>
 
 <a href="https://github.com/Null-Phantom/AxioVital-Website">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW-FF6B4A?style=for-the-badge&labelColor=171414"/>
 </a>
 
 </div>
@@ -171,7 +212,7 @@ AI-powered healthcare platform connecting technology, data and healthcare.
 
 ### 🌐 PORTFOLIO
 
-Personal developer portfolio showcasing my work, projects and experiments.
+My personal developer portfolio.
 
 <br>
 
@@ -180,7 +221,7 @@ Personal developer portfolio showcasing my work, projects and experiments.
 <br><br>
 
 <a href="https://github.com/Null-Phantom/portfolio">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW-C9A7FF?style=for-the-badge&labelColor=171414"/>
 </a>
 
 </div>
@@ -197,7 +238,7 @@ Personal developer portfolio showcasing my work, projects and experiments.
 
 ### ⚡ AXIOWEB
 
-Modern web development project focused on creating interactive experiences.
+Modern interactive web development.
 
 <br>
 
@@ -206,7 +247,7 @@ Modern web development project focused on creating interactive experiences.
 <br><br>
 
 <a href="https://github.com/Null-Phantom/axioweb">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW-F5F0E8?style=for-the-badge&labelColor=171414"/>
 </a>
 
 </div>
@@ -219,7 +260,7 @@ Modern web development project focused on creating interactive experiences.
 
 ### 📦 INVENTORY SYSTEM
 
-C++ based inventory management system built to practice programming and system logic.
+C++ inventory management system.
 
 <br>
 
@@ -228,7 +269,7 @@ C++ based inventory management system built to practice programming and system l
 <br><br>
 
 <a href="https://github.com/Null-Phantom/Developing-Inventory-Management-System-Using-Cpp">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW-FF6B4A?style=for-the-badge&labelColor=171414"/>
 </a>
 
 </div>
@@ -238,57 +279,57 @@ C++ based inventory management system built to practice programming and system l
 </tr>
 </table>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+`✦ ─────────────── ✦ ─────────────── ✦`
 
 </div>
 
-## 📊 `GITHUB ANALYTICS`
+## `06` — GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Null-Phantom&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Null-Phantom&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=171414&title_color=FF6B4A&text_color=F5F0E8&icon_color=C9A7FF" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Phantom&layout=compact&hide_border=true&langs_count=8&theme=github_dark" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Phantom&layout=compact&hide_border=true&langs_count=8&bg_color=171414&title_color=FF6B4A&text_color=F5F0E8" height="180"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Null-Phantom&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Null-Phantom&theme=dark&hide_border=true&background=171414&ring=FF6B4A&fire=FF6B4A&currStreakLabel=C9A7FF&sideLabels=F5F0E8&dates=8F8782"/>
 
 </div>
 
----
+<br>
 
-## 🔥 `CONTRIBUTION ACTIVITY`
+## `07` — CONTRIBUTION HEATMAP
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Phantom&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://ghchart.rshah.org/FF6B4A/Null-Phantom" alt="Yug's GitHub Contribution Heatmap" width="95%"/>
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/58A6FF/Null-Phantom" alt="Yug's GitHub Contribution Heatmap" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Phantom&bg_color=171414&color=F5F0E8&line=FF6B4A&point=C9A7FF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2000&pause=600&color=FF6B4A&center=true&vCenter=true&width=700&lines=ONE+COMMIT+AT+A+TIME.;KEEP+BUILDING.;KEEP+LEARNING.;KEEP+SHIPPING." />
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Every+commit+tells+a+story.;Every+bug+teaches+something.;Every+project+starts+with+an+idea.;Keep+building.+🚀" />
-
-</div>
-
----
-
-## 🧠 `CURRENTLY LEARNING`
+## `08` — CURRENTLY LEARNING
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,react,nodejs,dotnet,docker" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,react,nodejs,dotnet,docker&theme=dark"/>
 
 <br><br>
 
@@ -302,50 +343,47 @@ C++ based inventory management system built to practice programming and system l
 
 ---
 
-## 🎯 `2026 OBJECTIVES`
+## `09` — 2026 OBJECTIVES
+
+<div align="center">
 
 ```text
-[████████████████░░░░]  BUILD AI/ML PROJECTS
-
-[██████████████░░░░░░]  MASTER DSA
-
-[████████████░░░░░░░░]  BUILD PRODUCTION SYSTEMS
-
-[██████████░░░░░░░░░░]  CONTRIBUTE TO OPEN SOURCE
-
-[████████░░░░░░░░░░░░]  GROW QUANTAforze
-
-[████████████░░░░░░░░]  ADVANCE AXIOVITAL
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   ◉ BUILD MORE AI/ML PRODUCTS                              │
+│   ◉ BUILD PRODUCTION-READY SYSTEMS                        │
+│   ◉ LEVEL UP DSA                                             │
+│   ◉ CONTRIBUTE TO OPEN SOURCE                              │
+│   ◉ ADVANCE AXIOVITAL                                       │
+│   ◉ GROW QUANTAforze                                       │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-## 🌐 `LET'S CONNECT`
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=2200&pause=800&color=C9A7FF&center=true&vCenter=true&width=700&lines=LET'S+BUILD+SOMETHING+GREAT.;IDEAS+%E2%86%92+CODE+%E2%86%92+PRODUCTS.;SEE+YOU+IN+THE+NEXT+COMMIT." />
+
+<br><br>
 
 <a href="https://quantaforze.com/">
-<img src="https://img.shields.io/badge/🚀%20QUANTAforze-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20QUANTAforze-FF6B4A?style=for-the-badge&labelColor=171414"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yug-mittal-21270537b/">
-<img src="https://img.shields.io/badge/LinkedIn-Yug%20Mittal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Null-Phantom">
-<img src="https://img.shields.io/badge/GitHub-Null--Phantom-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-C9A7FF?style=for-the-badge&labelColor=171414&logo=linkedin&logoColor=171414"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=170&section=footer&animation=fadeIn"/>
-
-### ⚡ BUILD • LEARN • BREAK • REBUILD ⚡
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+👋;See+you+in+the+next+commit+🚀" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20BREAK%20%E2%80%A2%20REBUILD&fontSize=20&fontColor=F5F0E8&animation=twinkling&color=0:FF6B4A,45:402226,100:111111"/>
 
 </div>
