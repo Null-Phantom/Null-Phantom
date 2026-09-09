@@ -1,364 +1,345 @@
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=YUG%20MITTAL&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:111827,100:020617" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=YUG%20MITTAL&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Backend%20%7C%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<a href="https://github.com/Null-Phantom">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Student;Backend+Developer;Computer+Vision+Builder;System+Design+Enthusiast;Turning+ideas+into+working+systems" alt="Typing animation"/>
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Null-Phantom&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Backend+Developer;Computer+Vision+Builder;System+Design+Enthusiast;Building+things+that+actually+work" />
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Null--Phantom-0f172a?style=for-the-badge\&logo=github)](https://github.com/Null-Phantom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yug%20Mittal-0f172a?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Contact-Email-0f172a?style=for-the-badge\&logo=gmail)](mailto:your-email@example.com)
+<a href="https://github.com/Null-Phantom">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=%24+whoami;%3E+yug_mittal;%24+cat+current_status.txt;%3E+building+%7C+learning+%7C+experimenting" alt="Terminal animation"/>
-
-</div>
-
-<br>
-
-<!-- Animated divider -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=38BDF8" width="72%"/>
+<img src="https://komarev.com/ghpvc/?username=Null-Phantom&style=flat-square&color=38BDF8"/>
 
 </div>
 
 <br>
 
-# `01 / ABOUT`
+<!-- ===================================================== -->
+<!-- DYNAMIC DIVIDER                                       -->
+<!-- ===================================================== -->
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning student** who enjoys building things that sit somewhere between software engineering, AI and real-world systems.
+<div align="center">
 
-I like taking an idea from:
+<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+
+</div>
+
+<br>
+
+## `01 / ABOUT`
 
 ```text
-idea
-  ↓
-architecture
-  ↓
-implementation
-  ↓
-debugging
-  ↓
-something that actually works
-```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  yug_mittal@github                                           │
+│  ──────────────────────────────────────────────────────────  │
+│                                                              │
+│  B.Tech AI & ML student building software + intelligent     │
+│  systems with a strong interest in backend engineering,      │
+│  computer vision and system architecture.                   │
+│                                                              │
+│  I like taking things from:                                  │
+│                                                              │
+│      idea → architecture → implementation → debugging       │
+│                                      → something that works  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+````
 
-My current interests revolve around:
+### What I work with
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 👁️ Computer Vision
-* ⚙️ Backend Engineering
-* 🧠 System Design
-* 🌐 Full-Stack Development
-* 🐧 Linux & Developer Tooling
-* 🔌 Hardware + Software Systems
+* Artificial Intelligence & Machine Learning
+* Computer Vision
+* Backend Development
+* APIs & Databases
+* System Design
+* Full-Stack Development
+* Linux & Developer Tooling
+* Hardware / Software Integration
 
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=38BDF8" width="72%"/>
-
+<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
 </div>
 
 <br>
 
-# `02 / CURRENTLY_BUILDING`
+## `02 / SELECTED WORK`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### `TRACKCODEX`
 
-### ⚡ TrackCodex
+> A collaborative development environment built around real-world backend architecture.
 
-A collaborative development environment focused on making project-based development easier.
+```text
+AUTHENTICATION
+      │
+      ▼
+PROJECT MANAGEMENT
+      │
+      ▼
+FILE MANAGEMENT
+      │
+      ▼
+GIT WORKFLOWS
+      │
+      ▼
+COLLABORATIVE DEVELOPMENT
+```
 
-**What it explores**
+**Stack**
 
-* Authentication
-* Project management
-* File management
-* Git workflows
-* Backend architecture
-* Collaborative development
+`Node.js` · `Express` · `PostgreSQL` · `JavaScript` · `Git`
 
-`Node.js` `Express` `PostgreSQL`
+<br>
 
-</td>
+### `AI / COMPUTER VISION SYSTEMS`
 
-<td width="50%" valign="top">
+Building practical AI systems rather than stopping at model training.
 
-### 🤖 AI / CV Systems
+```text
+DATA
+ ↓
+PREPROCESSING
+ ↓
+MODEL
+ ↓
+VISION / INFERENCE
+ ↓
+API
+ ↓
+REAL-WORLD APPLICATION
+```
 
-Experiments around machine learning and computer vision with an emphasis on practical applications.
+**Stack**
 
-**What it explores**
-
-* Machine Learning
-* Computer Vision
-* Python
-* OpenCV
-* APIs
-* Real-world system integration
-
-`Python` `ML` `OpenCV`
-
-</td>
-</tr>
-</table>
+`Python` · `OpenCV` · `ML` · `APIs` · `Computer Vision`
 
 <br>
 
 <div align="center">
 
 <a href="https://github.com/Null-Phantom?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-38BDF8?style=for-the-badge&logo=github&logoColor=0f172a"/>
 </a>
 
 </div>
 
 <br>
 
-<!-- Animated divider -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=38BDF8" width="72%"/>
-
+<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
 </div>
 
 <br>
 
-# `03 / TECH STACK`
+## `03 / TECH STACK`
 
 <div align="center">
 
-### Languages
+### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" />
-
-<br><br>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
 
 <br><br>
 
-### AI / Machine Learning
+### BACKEND
 
-<img src="https://skillicons.dev/icons?i=python,opencv,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
 
 <br><br>
 
-### Tools & Infrastructure
+### AI / ML
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+
+<br><br>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
 
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=38BDF8" width="72%"/>
-
+<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
 </div>
 
 <br>
 
-# `04 / ENGINEERING INTERESTS`
+## `04 / ENGINEERING INTERESTS`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   AI / ML             ███████████████████░░░                │
-│   Backend             ██████████████████░░░░                │
-│   Computer Vision     █████████████████░░░░░                │
-│   System Design       ███████████████░░░░░░                │
-│   Full Stack          ██████████████░░░░░░░░                │
-│   Hardware            ███████████░░░░░░░░░░░                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+AI / ML             ████████████████████░░  90%
+BACKEND             ██████████████████░░░░  85%
+COMPUTER VISION     █████████████████░░░░░  80%
+SYSTEM DESIGN       ████████████████░░░░░░  75%
+FULL STACK           ███████████████░░░░░░░  70%
+HARDWARE             █████████████░░░░░░░░░  65%
 ```
 
-> I don't want to only learn frameworks.
->
-> I want to understand **why the system works**.
-
-<br>
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=700&color=38BDF8&center=true&vCenter=true&width=600&lines=design+%E2%86%92+build+%E2%86%92+break+%E2%86%92+understand+%E2%86%92+rebuild" alt="Engineering philosophy"/>
-
-</div>
-
-<br>
-
-<!-- Animated divider -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=38BDF8" width="72%"/>
-
-</div>
-
-<br>
-
-# `05 / GITHUB ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Null-Phantom&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Phantom&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8&langs_count=8" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Null-Phantom&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="70%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Phantom&bg_color=00000000&color=94A3B8&line=38BDF8&point=38BDF8&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<br>
-
-<!-- Animated divider -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=38BDF8" width="72%"/>
-
-</div>
-
-<br>
-
-# `06 / WHAT I'M LEARNING`
-
-<table>
-<tr>
-<td>
-
-### 🧠 Deepening
-
-* Machine Learning
-* Computer Vision
-* Algorithms
-* Operating Systems
-* Computer Networks
-
-</td>
-
-<td>
-
-### ⚙️ Building
-
-* Backend systems
-* APIs
-* Distributed architecture
-* Developer tools
-* AI-powered applications
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=800&color=64748B&center=true&vCenter=true&width=620&lines=learning+something+new+every+day;%24+git+commit+-m+%22make+it+better%22;%24+git+push;%3E+repeat." alt="Learning loop"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=38BDF8" width="72%"/>
-
-</div>
-
-<br>
-
-# `07 / BEYOND THE CODE`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   I like                                                    │
-│                                                              │
-│   → understanding how things work                           │
-│   → turning weird ideas into projects                       │
-│   → experimenting with new technologies                     │
-│   → designing systems instead of only writing code          │
-│   → breaking things so I can understand them                │
-│   → building things I didn't know how to build yesterday    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+DESIGN  →  BUILD  →  BREAK  →  UNDERSTAND  →  REBUILD
 ```
+
+</div>
 
 <br>
 
-# `08 / LET'S CONNECT`
+<div align="center">
+<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+</div>
+
+<br>
+
+## `05 / GITHUB ACTIVITY`
 
 <div align="center">
 
-If you're building something interesting, experimenting with AI,
-or simply want to talk about technology —
+<img src="https://github-readme-stats.vercel.app/api?username=Null-Phantom&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" height="170"/>
 
-**I'm always interested in interesting problems.**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Null-Phantom&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Null-Phantom&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Null-Phantom&bg_color=00000000&color=94A3B8&line=38BDF8&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
 
 <br>
+
+<div align="center">
+<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+</div>
+
+<br>
+
+## `06 / CURRENTLY LEARNING`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  DEEPENING                                                  │
+│  ├── Machine Learning                                       │
+│  ├── Computer Vision                                        │
+│  ├── Algorithms                                              │
+│  ├── Operating Systems                                      │
+│  └── Computer Networks                                      │
+│                                                             │
+│  BUILDING                                                   │
+│  ├── Backend Systems                                        │
+│  ├── APIs                                                    │
+│  ├── System Architecture                                    │
+│  ├── Developer Tools                                        │
+│  └── AI-powered Applications                                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=700&color=64748B&center=true&vCenter=true&width=600&lines=learning+something+new;git+commit;git+push;repeat." />
+
+</div>
+
+<br>
+
+<div align="center">
+<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+</div>
+
+<br>
+
+## `07 / BEYOND THE CODE`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║              WHEN I'M NOT WRITING CODE                  ║
+║                                                          ║
+║       Exploring technology      │      Learning          ║
+║       Breaking things            │      Building          ║
+║       Experimenting              │      Thinking          ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<div align="center">
+<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+</div>
+
+<br>
+
+## `08 / CONNECT`
+
+<div align="center">
 
 <a href="https://github.com/Null-Phantom">
-<img src="https://img.shields.io/badge/GITHUB-NULL--PHANTOM-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Null--Phantom-0f172a?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+ 
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
 
-<br>
-
-<!-- Footer -->
+<br><br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:020617,50:111827,100:0f172a" width="100%"/>
+```text
+────────────────────────────────────────────────────────────
 
-<sub>
+          BUILDING SYSTEMS. LEARNING CONSTANTLY.
 
-`built with curiosity • powered by caffeine • continuously iterating`
+────────────────────────────────────────────────────────────
+```
 
-</sub>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0f172a"/>
 
 </div>
+```
+
+**File structure:**
+
+```text
+your-github-profile/
+│
+├── README.md
+│
+└── .github/
+    └── assets/
+        └── scanline_big_trail.svg
+```
+
+The important part is that the README is now separate from the animation asset, so you can keep tweaking the SVG without touching the README.
