@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=YUG%20MITTAL&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Backend%20%7C%20Systems&descAlignY=58&descSize=18" width="100%"/>
@@ -340,6 +339,3 @@ your-github-profile/
 └── .github/
     └── assets/
         └── scanline_big_trail.svg
-```
-
-The important part is that the README is now separate from the animation asset, so you can keep tweaking the SVG without touching the README.
