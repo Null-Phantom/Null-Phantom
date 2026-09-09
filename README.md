@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+<img src=".github/assets/scanline.gif" width="95%" alt="Dynamic scanning divider"/>
 
 </div>
 
@@ -70,7 +70,7 @@
 <br>
 
 <div align="center">
-<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+<img src=".github/assets/scanline.gif" width="95%" alt="Dynamic scanning divider"/>
 </div>
 
 <br>
@@ -138,7 +138,7 @@ REAL-WORLD APPLICATION
 <br>
 
 <div align="center">
-<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+<img src=".github/assets/scanline.gif" width="95%" alt="Dynamic scanning divider"/>
 </div>
 
 <br>
@@ -174,7 +174,7 @@ REAL-WORLD APPLICATION
 <br>
 
 <div align="center">
-<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+<img src=".github/assets/scanline.gif" width="95%" alt="Dynamic scanning divider"/>
 </div>
 
 <br>
@@ -201,7 +201,7 @@ DESIGN  →  BUILD  →  BREAK  →  UNDERSTAND  →  REBUILD
 <br>
 
 <div align="center">
-<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+<img src=".github/assets/scanline.gif" width="95%" alt="Dynamic scanning divider"/>
 </div>
 
 <br>
@@ -227,7 +227,7 @@ DESIGN  →  BUILD  →  BREAK  →  UNDERSTAND  →  REBUILD
 <br>
 
 <div align="center">
-<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+<img src=".github/assets/scanline.gif" width="95%" alt="Dynamic scanning divider"/>
 </div>
 
 <br>
@@ -263,7 +263,7 @@ DESIGN  →  BUILD  →  BREAK  →  UNDERSTAND  →  REBUILD
 <br>
 
 <div align="center">
-<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+<img src=".github/assets/scanline.gif" width="95%" alt="Dynamic scanning divider"/>
 </div>
 
 <br>
@@ -289,7 +289,7 @@ DESIGN  →  BUILD  →  BREAK  →  UNDERSTAND  →  REBUILD
 <br>
 
 <div align="center">
-<img src=".github/assets/scanline_big_trail.svg" width="95%" alt="Dynamic scanning divider"/>
+<img src=".github/assets/scanline.gif" width="95%" alt="Dynamic scanning divider"/>
 </div>
 
 <br>
@@ -327,15 +327,3 @@ DESIGN  →  BUILD  →  BREAK  →  UNDERSTAND  →  REBUILD
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0f172a"/>
 
 </div>
-```
-
-**File structure:**
-
-```text
-your-github-profile/
-│
-├── README.md
-│
-└── .github/
-    └── assets/
-        └── scanline_big_trail.svg
